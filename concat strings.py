@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+Hi# -*- coding: utf-8 -*-
 """
 Write Python code that prompts for a word until the user enters an empty word. 
 i.e., gives a carriage return immediately at the prompt 
